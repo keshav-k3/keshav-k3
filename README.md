@@ -22,7 +22,8 @@
 
 <br>
 
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-k3&theme=dark&hide_langs_below=1)
+![Keshav's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-k3&theme=dark&hide_langs_below=1)
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav-k3&bg_color=30,f12711,f5af19&title_color=000&text_color=000)
 
 <p>
     <br>
@@ -32,7 +33,6 @@
     
 </p>
 <br>
-
 
 
 <br>
