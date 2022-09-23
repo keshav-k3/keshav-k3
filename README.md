@@ -10,7 +10,7 @@
 <p>
   <b>
     I am a 4th Year undergraduate from <a href="https://newhorizonindia.edu/college_edu/"> <b>New Horizon College of Engineering</b>, Bengaluru</a>.  
-      A <b>Machine Learning</b> and <b>Data Science Enthusiast</b> :computer: with a love for <b>Mathematics and Machine Learning</b>. Trying to learn a little more everyday.
+      A <b>Machine Learning</b> and <b>Data Science Enthusiast</b> :computer: with a love for <b>Mathematics</b>. Trying to learn a little more everyday.
   </b>  
 </p>
 
