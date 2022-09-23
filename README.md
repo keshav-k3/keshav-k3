@@ -14,11 +14,11 @@
   </b>  
 </p>
 
--  I’m probably 'busy' with college or acting like I am right now.<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="30vw" width="30vw" />
--  Currently into **Deep Learning** and **Automation**<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="30vw" width="30vw" />
-- Hmu on LinkedIn if you want to collab on projects<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="30vw" width="30vw" /> 
--  I like finishing anything assigned to me a week prior, cause I get a kick out of it.<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="30vw" width="30vw" />
-- The **Dream** right now,is to get a job in Australia/Japan/France. <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="30vw" width="30vw" />
+-  I’m probably 'busy' with college or acting like I am right now.<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="40vw" width="40vw" />
+-  Currently into **Deep Learning** and **Automation**<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="40vw" width="40vw" />
+- Hmu on LinkedIn if you want to collab on projects<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="40vw" width="40vw" /> 
+-  I like finishing anything assigned to me a week prior, cause I get a kick out of it.<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="40vw" width="40vw" />
+- The **Dream** right now,is to get a job in Australia/Japan/France. <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="40vw" width="40vw" />
 
 <br>
 
