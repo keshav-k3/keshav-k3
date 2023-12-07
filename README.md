@@ -21,7 +21,7 @@
         <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="60vw" width="60vw" /></td>
     </tr>
     <tr>
-        <td>現在、<b>DevOps<b>と<b>神経科学<b>に取り組んでいます<br>Currently slashing through **DevOps** and **Neuroscience** like Link</td>
+        <td>現在、<b>DevOps</b>と<b>神経科学</b>に取り組んでいます<br>Currently slashing through <b>DevOps</b> and <b>Neuroscience</b> like Link</td>
         <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="60vw" width="60vw" /></td>
     </tr>
     <tr>
