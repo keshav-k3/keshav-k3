@@ -1,28 +1,46 @@
-# Keshav Kk <img src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/pika1.gif" width="50px">
+# ケーシャブ 「Keshav KK」 <img src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/pika1.gif" width="50px">
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
 -->
 
 <img align="right" alt="PC GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/dev1.gif" width="190" />
 
-### **Hey there!** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### **こんにちは 「Hello」!** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 <p>
-  <b>
-    Undergraduate in Computer Science<br>
-    <b>Current Position</b> DevOps Engineer @ 
-      A <b>Machine Learning</b> and <b>Neuroscience Enthusiast</b> :computer: 
+    <b>コンピューターサイエンス</b>の学部生「Undergraduate in Computer Science」<br>
+    <b>現在の役職「Current Position」</b> DevOps エンジニア「Engineer」 @<a href="https://www.ibjapan.jp/">IBJ</a><br>
+    <b>機械学習「Machine Learning」</b> ＆ <b>神経科学「Neuroscience」</b>の愛好家「Enthusiast」 :computer: 
   </b>  
 </p>
 
--  Love solving problems, like removing Snorlax to cross the bridge.<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="40vw" width="40vw" />
--  Currently slashing through **DevOps** and **Neuroscience** like Link<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="40vw" width="40vw" />
-- Want to learn more and more and grow like Mario with a mushroom<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="40vw" width="40vw" /> 
--  Special Abilities: Chidori, Completing any task assigned ahead of time.<img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="40vw" width="40vw" />
-- Currently working in **Japan** <img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="40vw" width="40vw" />
+
+<table>
+    <tr>
+        <td>問題を解決するのが大好きで、橋を渡るためにカビゴンを撤去します<br>Love solving problems, like removing Snorlax to cross the bridge</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/snorlax.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>現在、<b>DevOps<b>と<b>神経科学<b>に取り組んでいます<br>Currently slashing through **DevOps** and **Neuroscience** like Link</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/zelda.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>キノコを手に入れることでより大きく成長することが目指しています、マリオの同じ<br>Want to learn more and more and grow like Mario with a mushroom</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/mario1.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>特別な能力：チドり、時計に勝つ、任務の達成<br>Special Abilities: Chidori, Completing any task assigned ahead of time</td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/kakashi.gif" height="60vw" width="60vw" /></td>
+    </tr>
+    <tr>
+        <td>現在は<b>日本<b>で働いています<br>Currently working in <b>Japan<b></td>
+        <td><img alt="GIF" src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/charizard.gif" height="60vw" width="60vw" /></td>
+    </tr>
+</table>
+
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">ラングエージェス & トゥールス「Languages & Tools」:</h3>
 <p align="left"> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -60,7 +78,7 @@
 
 
 
-# Connect with me<img src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/dev3.gif" height="52px">
+# コネクト「Connect with me」<img src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/dev3.gif" height="52px">
 
 [<img align="left" alt="keshav-k3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][mylinkedin]
 [<img align="left" alt="keshav-k3 | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
