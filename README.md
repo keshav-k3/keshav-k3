@@ -9,7 +9,7 @@
 
 <p>
     <b>コンピューターサイエンス</b>の学部生「Undergraduate in Computer Science」<br>
-    <b>現在の役職「Current Position」</b> Web エンジニア「Engineer」 @<a href="https://www.ibjapan.jp/">IBJ</a><br>
+    <b>現在の役職「Current Position」</b> Web エンジニア「Engineer」<br>
     <b>機械学習「Machine Learning」</b> ＆ <b>神経科学「Neuroscience」</b>の愛好家「Enthusiast」 :computer: 
   </b>  
 </p>
