@@ -74,7 +74,7 @@
 
 </details>
 
-<h3 align="center">ラングエージェス & トゥールス「Languages & Tools」</h3>
+<h3 align="center">技術スタック「Languages & Tools」</h3>
 <div align="center">
   
 [![Tech Stack](https://skillicons.dev/icons?i=rails,laravel,next,bun,tailwind,aws,tensorflow,go,js,ts,python,postgres,supabase,graphql)](https://skillicons.dev)
