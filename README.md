@@ -1,10 +1,10 @@
 # ケーシャブ・ 凯沙夫・Keshav
 
-### こんにちは!・你好！・Hello! <img src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/pika1.gif" width="50px">
+### こんにちは！・你好！・Hello！ <img src="https://github.com/keshav-k3/mygifs/blob/4cdf4e350df020dbd4be137eb9867992ed439465/gitgifs/pika1.gif" width="50px">
 
 `Web & DevOps Engineer`
 
-<h3 align="center">技術スタック「Languages & Tools」</h3>
+<h3 align="center">技術スタック・技术栈・Languages & Tools</h3>
 <div align="center">
   
 [![Tech Stack](https://skillicons.dev/icons?i=rails,laravel,next,deno,tailwind,aws,terraform,tensorflow,go,js,ts,python,postgres,supabase)](https://skillicons.dev)
